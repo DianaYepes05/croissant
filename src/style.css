@@ -9,7 +9,8 @@ p, h1{
 }
 
 h1{
-font-weight: bolder;
+  font-weight: bolder;
+  font-size: 32px;
 }
 
 p {
@@ -21,3 +22,6 @@ color: rgb(37, 146, 49);
 margin: 10px;
 }
 
+.croissant_img {
+  margin: 30px;
+}
