@@ -22,6 +22,10 @@ color: rgb(37, 146, 49);
 margin: 10px;
 }
 
+.contact_mail{
+  color: rgb(0, 0, 238);
+}
+
 .croissant_img {
   margin: 30px;
 }
