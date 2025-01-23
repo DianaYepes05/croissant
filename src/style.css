@@ -1,7 +1,23 @@
-h1{
+body{
+  font-family: 'Times New Roman', Times, serif;
+  background-color: antiquewhite;
+  margin-top: 25px;
+}
+
+p, h1{
   text-align: center;
-  color:red;
+}
+
+h1{
+font-weight: bolder;
+}
+
+p {
+  margin: 20px;
 }
 
 a{
-color: black;}
+color: rgb(37, 146, 49);
+margin: 10px;
+}
+
